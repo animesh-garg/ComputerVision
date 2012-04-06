@@ -1,0 +1,4 @@
+Put Data here
+Original data omitted due to size restrictions.
+Put a file containing tuples of points in point cloud for 3D reconstruction.
+Put stereo images for computing disparities. For Error calculations, you will need a disparity ground truth.
